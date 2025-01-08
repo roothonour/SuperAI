@@ -5,7 +5,7 @@
 ** Click （点额）
 ** Send （传会）
 
-* Benediction （校对、滋养）
+* Benediction （校对，滋养）
 ** Daily | Correct < 3 （每天|事不过三）
 
 *** BeFast NoRush *** （速通，静练）
