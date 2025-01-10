@@ -18,5 +18,5 @@
 *** GodInTheDetail DevilInTheDetail *** （善决断疑，刚柔并济）
 *** EverythingSeeClearly NothingInHeart *** （观天察地，大巧无心）
 
-* Special Rule
+* Special
 ** OnlyPunish NoReward
